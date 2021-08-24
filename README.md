@@ -53,3 +53,7 @@ I added `sudo /localview/rest-based-vocalizer/startup &` to my /etc/rc.local fil
 I will finish this section shortly - for now copy the sample mp3 from audio-example
 into the audio folder.
 
+# HOW TO INTEGRATE WITH HUBITAT
+
+TBD
+
