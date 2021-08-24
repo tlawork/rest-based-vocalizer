@@ -48,5 +48,8 @@ Based on my location of /localview/rest-based-vocalizer
 
 I added `sudo /localview/rest-based-vocalizer/startup &` to my /etc/rc.local file.
 
+# HOW TO MAKE THE MP3 FILES
 
+I will finish this section shortly - for now copy the sample mp3 from audio-example
+into the audio folder.
 
