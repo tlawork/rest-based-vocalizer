@@ -1,0 +1,41 @@
+[
+  { "file": "hubitat-001.mp3", "saying":"The dishes are clean" },
+  { "file": "hubitat-002.mp3", "saying":"The dishes are marked clean" },
+  { "file": "hubitat-003.mp3", "saying":"The dishes be clean matey" },
+  { "file": "hubitat-004.mp3", "saying":"Dude, your dishes are clean" },
+  { "file": "hubitat-005.mp3", "saying":"The dishes are dirty" },
+  { "file": "hubitat-006.mp3", "saying":"The dishes are currently marked dirty" },
+  { "file": "hubitat-007.mp3", "saying":"The dishes be dirty matey" },
+  { "file": "hubitat-008.mp3", "saying":"Dude, your dishes are smelly" },
+  { "file": "hubitat-009.mp3", "saying":"Double tap the button to mark empty or dirty" },
+  { "file": "hubitat-010.mp3", "saying":"Long hold the button to reset to clean" },
+  { "file": "hubitat-011.mp3", "saying":"The dishwasher state has been set to clean." },
+  { "file": "hubitat-012.mp3", "saying":"The dishwasher state has been set to dirty" },
+  { "file": "hubitat-013.mp3", "saying":"The dishwasher is detected to be running and is now set to clean." },
+  { "file": "hubitat-014.mp3", "saying":"Todd has arrived" },
+  { "file": "hubitat-015.mp3", "saying":"Debbie has arrived" },
+  { "file": "hubitat-016.mp3", "saying":"Kimberlee has arrived" },
+  { "file": "hubitat-017.mp3", "saying":"Todd - has departed" },
+  { "file": "hubitat-018.mp3", "saying":"Debbie - has departed" },
+  { "file": "hubitat-019.mp3", "saying":"Kimberlee - has departed" },
+  { "file": "hubitat-020.mp3", "saying":"The front door is open" },
+  { "file": "hubitat-021.mp3", "saying":"The back door is open" },
+  { "file": "hubitat-022.mp3", "saying":"The garage door is open" },
+  { "file": "hubitat-023.mp3", "saying":"The shop garage door is open" },
+  { "file": "hubitat-024.mp3", "saying":"The entry garage door is open" },
+  { "file": "hubitat-025.mp3", "saying":"Window weather alert." }
+  { "file": "hubitat-026T1.mp3", "saying":"Todd arrived option n." }
+  { "file": "hubitat-026T2.mp3", "saying":"Todd arrived option n." }
+  { "file": "hubitat-026T3.mp3", "saying":"Todd arrived option n." }
+  { "file": "hubitat-026D1.mp3", "saying":"Debbie arrived option n." }
+  { "file": "hubitat-026D2.mp3", "saying":"Debbie arrived option n." }
+  { "file": "hubitat-026D3.mp3", "saying":"Debbie arrived option n." }
+  { "file": "hubitat-026K1.mp3", "saying":"Kimberlee arrived option n." }
+  { "file": "hubitat-026K2.mp3", "saying":"Kimberlee arrived option n." }
+  { "file": "hubitat-026K3.mp3", "saying":"Kimberlee arrived option n." }
+  
+]
+
+  
+
+  
